@@ -1,0 +1,453 @@
+Residue conformations -------------------------------------------
+A101 : C C3p_endo anti
+A102 : G C3p_endo anti
+A103 : C C3p_endo anti
+A104 : G C3p_endo anti
+A105 : A C3p_endo anti
+A106 : A C3p_endo anti
+A107 : U C3p_endo anti
+A108 : ZTH
+A109 : A C3p_endo anti
+A110 : G C3p_endo anti
+A111 : C C3p_endo anti
+A112 : G C3p_endo anti
+B201 : C C3p_endo anti
+B202 : G C3p_endo anti
+B203 : C C3p_endo anti
+B204 : G C3p_endo anti
+B205 : A C3p_endo anti
+B206 : A C3p_endo anti
+B207 : U C3p_endo anti
+B208 : ZTH
+B209 : A C3p_endo anti
+B210 : G C3p_endo anti
+B211 : C C3p_endo anti
+B212 : G C3p_endo anti
+C301 : C C3p_endo anti
+C302 : G C3p_endo anti
+C303 : C C3p_endo anti
+C304 : G C3p_endo anti
+C305 : A C3p_endo anti
+C306 : A C3p_endo anti
+C307 : U C3p_endo anti
+C308 : ZTH
+C309 : A C3p_endo anti
+C310 : G C3p_endo anti
+C311 : C C3p_endo anti
+C312 : G C3p_endo anti
+D401 : C C3p_endo anti
+D402 : G C3p_endo anti
+D403 : C C3p_endo anti
+D404 : G C3p_endo anti
+D405 : A C3p_endo anti
+D406 : A C3p_endo anti
+D407 : U C3p_endo anti
+D408 : ZTH
+D409 : A C3p_endo anti
+D410 : G C3p_endo anti
+D411 : C C3p_endo anti
+D412 : G C3p_endo anti
+A201 : SR
+B301 : SR
+B302 : SR
+B303 : SPM
+C401 : SR
+C402 : SR
+C403 : SR
+C404 : SR
+D501 : SR
+A301 : HOH
+A302 : HOH
+A303 : HOH
+A304 : HOH
+A305 : HOH
+A306 : HOH
+A307 : HOH
+A308 : HOH
+A309 : HOH
+A310 : HOH
+A311 : HOH
+A312 : HOH
+A313 : HOH
+A314 : HOH
+A315 : HOH
+A316 : HOH
+A317 : HOH
+A318 : HOH
+A319 : HOH
+A320 : HOH
+A321 : HOH
+A322 : HOH
+A323 : HOH
+A324 : HOH
+A325 : HOH
+A326 : HOH
+A327 : HOH
+A328 : HOH
+A329 : HOH
+A330 : HOH
+A331 : HOH
+A332 : HOH
+A333 : HOH
+A334 : HOH
+A335 : HOH
+A336 : HOH
+A337 : HOH
+A338 : HOH
+A339 : HOH
+A340 : HOH
+A341 : HOH
+A342 : HOH
+A343 : HOH
+A344 : HOH
+A345 : HOH
+A346 : HOH
+A347 : HOH
+A348 : HOH
+A349 : HOH
+A350 : HOH
+A351 : HOH
+A352 : HOH
+A353 : HOH
+A354 : HOH
+A355 : HOH
+A356 : HOH
+A357 : HOH
+A358 : HOH
+A359 : HOH
+A360 : HOH
+A361 : HOH
+A362 : HOH
+A363 : HOH
+A364 : HOH
+A365 : HOH
+A366 : HOH
+A367 : HOH
+A368 : HOH
+A369 : HOH
+A370 : HOH
+A371 : HOH
+A372 : HOH
+A373 : HOH
+A374 : HOH
+A375 : HOH
+A376 : HOH
+A377 : HOH
+A378 : HOH
+A379 : HOH
+A380 : HOH
+B401 : HOH
+B402 : HOH
+B403 : HOH
+B404 : HOH
+B405 : HOH
+B406 : HOH
+B407 : HOH
+B408 : HOH
+B409 : HOH
+B410 : HOH
+B411 : HOH
+B412 : HOH
+B413 : HOH
+B414 : HOH
+B415 : HOH
+B416 : HOH
+B417 : HOH
+B418 : HOH
+B419 : HOH
+B420 : HOH
+B421 : HOH
+B422 : HOH
+B423 : HOH
+B424 : HOH
+B425 : HOH
+B426 : HOH
+B427 : HOH
+B428 : HOH
+B429 : HOH
+B430 : HOH
+B431 : HOH
+B432 : HOH
+B433 : HOH
+B434 : HOH
+B435 : HOH
+B436 : HOH
+B437 : HOH
+B438 : HOH
+B439 : HOH
+B440 : HOH
+B441 : HOH
+B442 : HOH
+B443 : HOH
+B444 : HOH
+B445 : HOH
+B446 : HOH
+B447 : HOH
+B448 : HOH
+B449 : HOH
+B450 : HOH
+B451 : HOH
+B452 : HOH
+B453 : HOH
+B454 : HOH
+B455 : HOH
+B456 : HOH
+B457 : HOH
+B458 : HOH
+B459 : HOH
+B460 : HOH
+B461 : HOH
+B462 : HOH
+B463 : HOH
+B464 : HOH
+B465 : HOH
+C501 : HOH
+C502 : HOH
+C503 : HOH
+C504 : HOH
+C505 : HOH
+C506 : HOH
+C507 : HOH
+C508 : HOH
+C509 : HOH
+C510 : HOH
+C511 : HOH
+C512 : HOH
+C513 : HOH
+C514 : HOH
+C515 : HOH
+C516 : HOH
+C517 : HOH
+C518 : HOH
+C519 : HOH
+C520 : HOH
+C521 : HOH
+C522 : HOH
+C523 : HOH
+C524 : HOH
+C525 : HOH
+C526 : HOH
+C527 : HOH
+C528 : HOH
+C529 : HOH
+C530 : HOH
+C531 : HOH
+C532 : HOH
+C533 : HOH
+C534 : HOH
+C535 : HOH
+C536 : HOH
+C537 : HOH
+C538 : HOH
+C539 : HOH
+C540 : HOH
+C541 : HOH
+C542 : HOH
+C543 : HOH
+C544 : HOH
+C545 : HOH
+C546 : HOH
+C547 : HOH
+C548 : HOH
+C549 : HOH
+C550 : HOH
+C551 : HOH
+C552 : HOH
+C553 : HOH
+C554 : HOH
+C555 : HOH
+C556 : HOH
+C557 : HOH
+C558 : HOH
+C559 : HOH
+C560 : HOH
+C561 : HOH
+C562 : HOH
+C563 : HOH
+C564 : HOH
+C565 : HOH
+C566 : HOH
+C567 : HOH
+C568 : HOH
+C569 : HOH
+C570 : HOH
+C571 : HOH
+C572 : HOH
+C573 : HOH
+C574 : HOH
+C575 : HOH
+C576 : HOH
+C577 : HOH
+C578 : HOH
+C579 : HOH
+C580 : HOH
+C581 : HOH
+C582 : HOH
+C583 : HOH
+C584 : HOH
+C585 : HOH
+C586 : HOH
+C587 : HOH
+C588 : HOH
+C589 : HOH
+C590 : HOH
+C591 : HOH
+C592 : HOH
+C593 : HOH
+C594 : HOH
+C595 : HOH
+D601 : HOH
+D602 : HOH
+D603 : HOH
+D604 : HOH
+D605 : HOH
+D606 : HOH
+D607 : HOH
+D608 : HOH
+D609 : HOH
+D610 : HOH
+D611 : HOH
+D612 : HOH
+D613 : HOH
+D614 : HOH
+D615 : HOH
+D616 : HOH
+D617 : HOH
+D618 : HOH
+D619 : HOH
+D620 : HOH
+D621 : HOH
+D622 : HOH
+D623 : HOH
+D624 : HOH
+D625 : HOH
+D626 : HOH
+D627 : HOH
+D628 : HOH
+D629 : HOH
+D630 : HOH
+D631 : HOH
+D632 : HOH
+D633 : HOH
+D634 : HOH
+D635 : HOH
+D636 : HOH
+D637 : HOH
+D638 : HOH
+D639 : HOH
+D640 : HOH
+D641 : HOH
+D642 : HOH
+D643 : HOH
+D644 : HOH
+D645 : HOH
+D646 : HOH
+D647 : HOH
+D648 : HOH
+D649 : HOH
+D650 : HOH
+D651 : HOH
+D652 : HOH
+D653 : HOH
+D654 : HOH
+D655 : HOH
+D656 : HOH
+D657 : HOH
+D658 : HOH
+D659 : HOH
+D660 : HOH
+D661 : HOH
+D662 : HOH
+D663 : HOH
+D664 : HOH
+D665 : HOH
+D666 : HOH
+D667 : HOH
+D668 : HOH
+D669 : HOH
+D670 : HOH
+D671 : HOH
+D672 : HOH
+D673 : HOH
+D674 : HOH
+D675 : HOH
+D676 : HOH
+D677 : HOH
+D678 : HOH
+D679 : HOH
+D680 : HOH
+D681 : HOH
+D682 : HOH
+D683 : HOH
+D684 : HOH
+D685 : HOH
+D686 : HOH
+D687 : HOH
+D688 : HOH
+D689 : HOH
+D690 : HOH
+D691 : HOH
+D692 : HOH
+D693 : HOH
+D694 : HOH
+Adjacent stackings ----------------------------------------------
+A102-A103 : adjacent_5p upward 
+A103-A104 : adjacent_5p upward 
+A105-A106 : adjacent_5p upward 
+A106-A107 : adjacent_5p upward 
+A109-A110 : adjacent_5p upward 
+A110-A111 : adjacent_5p upward 
+A111-A112 : adjacent_5p upward 
+B201-B202 : adjacent_5p upward 
+B202-B203 : adjacent_5p upward 
+B203-B204 : adjacent_5p upward 
+B205-B206 : adjacent_5p upward 
+B206-B207 : adjacent_5p upward 
+B209-B210 : adjacent_5p upward 
+B210-B211 : adjacent_5p upward 
+B211-B212 : adjacent_5p upward 
+C302-C303 : adjacent_5p upward 
+C303-C304 : adjacent_5p upward 
+C305-C306 : adjacent_5p upward 
+C306-C307 : adjacent_5p upward 
+C309-C310 : adjacent_5p upward 
+C310-C311 : adjacent_5p upward 
+C311-C312 : adjacent_5p upward 
+D402-D403 : adjacent_5p upward 
+D403-D404 : adjacent_5p upward 
+D405-D406 : adjacent_5p upward 
+D406-D407 : adjacent_5p upward 
+D409-D410 : adjacent_5p upward 
+D410-D411 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A102-B212 : outward 
+A105-B209 : outward 
+A109-B205 : outward 
+A112-B202 : outward 
+C302-D412 : outward 
+C305-D409 : outward 
+C309-D405 : outward 
+C312-D402 : outward 
+Number of stackings = 36
+Number of adjacent stackings = 28
+Number of non adjacent stackings = 8
+Base-pairs ------------------------------------------------------
+A101-B212 : C-G Ww/Ww pairing antiparallel cis XIX 
+A102-B211 : G-C Ww/Ww pairing antiparallel cis XIX 
+A103-B210 : C-G Ww/Ww pairing antiparallel cis XIX 
+A104-B209 : G-A Ss/Hh O2'/Bh pairing antiparallel trans XI 
+A106-B207 : A-U Ww/Ww pairing antiparallel cis XX 
+A109-B204 : A-G Hh/Ss Bh/O2' pairing antiparallel trans XI 
+A110-B203 : G-C Ww/Ww pairing antiparallel cis XIX 
+A111-B202 : C-G Ww/Ww pairing antiparallel cis XIX 
+A112-B201 : G-C Ww/Ww pairing antiparallel cis XIX 
+C301-D412 : C-G Ww/Ww pairing antiparallel cis XIX 
+C302-D411 : G-C Ww/Ww pairing antiparallel cis XIX 
+C303-D410 : C-G Ww/Ww pairing antiparallel cis XIX 
+C304-D409 : G-A Ss/Hh O2'/Bh pairing antiparallel trans XI 
+C306-D407 : A-U Ww/Ww pairing antiparallel cis XX 
+C307-D406 : U-A Ww/Ww pairing antiparallel cis XX 
+C309-D404 : A-G Hh/Ss Bh/O2' pairing antiparallel trans XI 
+C310-D403 : G-C Ww/Ww pairing antiparallel cis XIX 
+C311-D402 : C-G Ww/Ww pairing antiparallel cis XIX 
+C312-D401 : G-C Ww/Ww pairing antiparallel cis XIX 
